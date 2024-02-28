@@ -12,6 +12,5 @@ Generate Thread Art Using Image Processing with Greedy Algorithm.
   ```bash
   pip install scipy
 
-
 ## The outputs:
 https://twitter.com/chrnclee/status/1760336314736738395# 
